@@ -17,8 +17,8 @@ In this project, we propose to optimize and control dynamic power consumption in
 ##### Deep Learning  
 
 ##### Energy Control  
-[Why Energy Is A Big And Rapidly Growing Problem For Data Centers](https://www.forbes.com/sites/forbestechcouncil/2017/12/15/why-energy-is-a-big-and-rapidly-growing-problem-for-data-centers/#772cdb265a30)  
-
+Blog[Why Energy Is A Big And Rapidly Growing Problem For Data Centers](https://www.forbes.com/sites/forbestechcouncil/2017/12/15/why-energy-is-a-big-and-rapidly-growing-problem-for-data-centers/#772cdb265a30)  
+'AI is the future and its hungry for processing power'  
 
 ### Coding  
 https://github.com/IBM/rl-testbed-for-energyplus  
