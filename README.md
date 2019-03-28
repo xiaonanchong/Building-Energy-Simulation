@@ -10,6 +10,7 @@ In this project, we propose to optimize and control dynamic power consumption in
 
 [Reinforcement Learning Testbed for Power-Consumption Optimization](https://arxiv.org/pdf/1808.10427.pdf)  
 [Building Energy Load Forecasting using Deep Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7793413)  
+> LSTM  
 
 #### Reinforcement Learning  
 
@@ -19,7 +20,7 @@ In this project, we propose to optimize and control dynamic power consumption in
 
 #### Energy Control  
 [Blog - Why Energy Is A Big And Rapidly Growing Problem For Data Centers](https://www.forbes.com/sites/forbestechcouncil/2017/12/15/why-energy-is-a-big-and-rapidly-growing-problem-for-data-centers/#772cdb265a30)  
-'AI is the future and its hungry for processing power'  
+> 'AI is the future and its hungry for processing power'  
 
 ## Coding  
 https://github.com/IBM/rl-testbed-for-energyplus  
