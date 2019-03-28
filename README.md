@@ -9,6 +9,7 @@ In this project, we propose to optimize and control dynamic power consumption in
 ## Papers on 'Energy Control' and 'Deep Learning':   
 
 [Reinforcement Learning Testbed for Power-Consumption Optimization](https://arxiv.org/pdf/1808.10427.pdf)  
+[Building Energy Load Forecasting using Deep Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7793413)  
 
 #### Reinforcement Learning  
 
