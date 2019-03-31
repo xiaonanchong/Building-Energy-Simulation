@@ -27,3 +27,5 @@ In this project, we propose to optimize and control dynamic power consumption in
 
 ## Coding  
 https://github.com/IBM/rl-testbed-for-energyplus  
+
+[Reinforcement Learning Testbed for Power-Consumption Optimization](https://arxiv.org/pdf/1808.10427.pdf)  
