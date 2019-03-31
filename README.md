@@ -6,7 +6,7 @@ Building Energy Simulation through Deep Reinforcement Learning
 Reinforcement learning has proved to be a successful optimization technique to find optimal behaviors in the absence of relevant data and learning for the experience.  
 In this project, we propose to optimize and control dynamic power consumption in a building by means of Reinforcement learning techniques. To do so, we will rely on an existing testbed and will use different datasets.  
 
-## Papers on 'Energy Control' and 'Deep Learning':    
+## Papers on 'Energy Control' and 'Deep Learning'     
 
 [Building Energy Load Forecasting using Deep Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7793413) - using LSTM model to predict single room electricity consumtion in next 60 hours. different models are compared in cluding: standard LSTM, standard LSTM and delayed input, S2S model.  
 
