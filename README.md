@@ -12,7 +12,7 @@ In this project, we propose to optimize and control dynamic power consumption in
 
 [Building Energy Load Forecasting using Deep Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7793413) - using LSTM model to predict single room electricity consumtion in next 60 hours. different models are compared in cluding: standard LSTM, standard LSTM and delayed input, S2S model.  
 
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7792825  
+[Intelligent Buildings of the Future Cyberaware, Deep Learning Powered, and Human Interacting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7792825)  
 
 #### Reinforcement Learning  
 
