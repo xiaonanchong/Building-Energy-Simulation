@@ -32,6 +32,7 @@ TRPO - trust-region policy optimization algorithm
 #### Prerequisites  
 create workspace at home directory  
 > mkdir rlworkspace  
+
 in rlworkspace clone git repositories  
 > git clone https://github.com/NREL/EnergyPlus.git  
 > git clone https://github.com/IBM/rl-testbed-for-energyplus.git  
