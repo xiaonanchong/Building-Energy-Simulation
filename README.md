@@ -29,5 +29,13 @@ https://github.com/IBM/rl-testbed-for-energyplus
 [Reinforcement Learning Testbed for Power-Consumption Optimization](https://arxiv.org/pdf/1808.10427.pdf)  
 TRPO - trust-region policy optimization algorithm  
 
+#### Prerequisites  
+create workspace at home directory  
+> mkdir rlworkspace  
+in rlworkspace clone git repositories  
+> git clone https://github.com/NREL/EnergyPlus.git  
+> git clone https://github.com/IBM/rl-testbed-for-energyplus.git  
+
+
 ## Tools
 [EnergyPlus](https://energyplus.net/sites/all/modules/custom/nrel_custom/pdfs/pdfs_v9.1.0/GettingStarted.pdf)  
