@@ -39,8 +39,7 @@ in rlworkspace clone git repositories
 $ git clone https://github.com/NREL/EnergyPlus.git  
 $ git clone https://github.com/IBM/rl-testbed-for-energyplus.git  
 ```
-install EnergyPlus 8.8.0  
-[EnergyPlus-8.8.0-7c3bbe4830-Linux-x86_64.sh 96.7 MB](https://github.com/NREL/EnergyPlus/releases/download/v8.8.0/EnergyPlus-8.8.0-7c3bbe4830-Linux-x86_64.sh)  
+install EnergyPlus 8.8.0 [EnergyPlus-8.8.0-7c3bbe4830-Linux-x86_64.sh 96.7 MB](https://github.com/NREL/EnergyPlus/releases/download/v8.8.0/EnergyPlus-8.8.0-7c3bbe4830-Linux-x86_64.sh)  
 ```
 $ sudo bash <DOWNLOAD-DIRECTORY>/EnergyPlus-8.8.0-7c3bbe4830-Linux-x86_64.sh
 ```
