@@ -30,5 +30,11 @@ wget https://www.roboti.us/getid/getid_linux
 mark file as executable:  
 $ chmod +x getid_linux  
 $ ./getid_linux  
-
+download Mujoco 2.0:  
+& wget https://www.roboti.us/download/mujoco200_linux.zip  
+$ unzip mujoco200_linux.zip  
+put mjkey.txt in the same directory, then install  
+$ export 
+$ export 
+$ pip install -U 'mujoco-py<2.1,>=2.0'  
 
