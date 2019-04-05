@@ -34,7 +34,7 @@ download Mujoco 2.0:
 & wget https://www.roboti.us/download/mujoco200_linux.zip  
 $ unzip mujoco200_linux.zip  
 put mjkey.txt in the same directory, then install  
-$ export 
-$ export 
+$ export MUJOCO_PY_MJKEY_PATH=mjkey.txt  
+$ export MUJOCO_PY_MUJOCO_PATH=mujoco200_linux/   
 $ pip install -U 'mujoco-py<2.1,>=2.0'  
 
