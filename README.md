@@ -8,7 +8,8 @@ $ sudo apt-get install python-pip
 ## install virtualenv to manage packages for different projects  
 $ sudo apt install virtualenv | pip install virtualenv    
 $ virtualenv venv/rl --python=python3  
-$ . /path/to/venv/bin/activate  
+activate virtualenv  
+$ . /path/to/venv/bin/activate  (. venv/rl/bin/activate)  
 
 ## install baselines  
 Prerequisites:  
@@ -54,3 +55,11 @@ pay attention to directory orgamization
 
 PROBELM: readvarseso --help COMMAND NOT FOUND  
 
+## clone  
+clone gitL rl-testbed-for-energyplus  
+$ git clone https://github.com/IBM/rl-testbed-for-energyplus.git  
+clone git: energyplus 8.8.0  
+$ git clone https://github.com/NREL/EnergyPlus.git  
+
+## run 
+$ time python3 -m baselines_energyplus.trpo_mpi.run_energyplus --num-timesteps 100  
