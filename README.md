@@ -45,4 +45,7 @@ $ pip install gym
 
 ## install EnergyPlus  
 $ wget https://github.com/NREL/EnergyPlus/releases/download/v9.1.0/EnergyPlus-9.1.0-08d2e308bb-Linux-x86_64.sh  
+$ chmod +x EnergyPlus-9.1.0-08d2e308bb-Linux-x86_64.sh  
+$ sudo ./EnergyPlus-9.1.0-08d2e308bb-Linux-x86_64.sh  
+pay attention to directory orgamization  
 
