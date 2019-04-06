@@ -38,3 +38,10 @@ $ export MUJOCO_PY_MJKEY_PATH=mjkey.txt
 $ export MUJOCO_PY_MUJOCO_PATH=mujoco200_linux/   
 $ pip install -U 'mujoco-py<2.1,>=2.0'  
 
+FAIL  
+
+## install gym  
+
+## install EnergyPlus  
+
+
