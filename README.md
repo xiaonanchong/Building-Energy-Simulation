@@ -42,7 +42,13 @@ $ pip install -U 'mujoco-py<2.1,>=2.0'
 MUJOCO INSTALLATION FAIL  
 
 [install opencv:](https://docs.opencv.org/3.4.1/d2/de6/tutorial_py_setup_in_ubuntu.html)  
-
+$ pip install matplotlib  
+$ pip install ipython  
+$ sudo apt-get install python-opencv  
+test installation  
+$ ipython  
+>>> import cv2 as cv  
+>>> print(cv.__version__) # 4.4.0    
 
 ## install gym  
 $ pip install gym  
