@@ -38,14 +38,17 @@ $ export MUJOCO_PY_MJKEY_PATH=mjkey.txt
 $ export MUJOCO_PY_MUJOCO_PATH=mujoco200_linux/   
 $ pip install -U 'mujoco-py<2.1,>=2.0'  
 
-FAIL  
+MUJOCO INSTALLATION FAIL  
 
 ## install gym  
 $ pip install gym  
 
 ## install EnergyPlus  
 $ wget https://github.com/NREL/EnergyPlus/releases/download/v9.1.0/EnergyPlus-9.1.0-08d2e308bb-Linux-x86_64.sh  
+
 $ chmod +x EnergyPlus-9.1.0-08d2e308bb-Linux-x86_64.sh  
 $ sudo ./EnergyPlus-9.1.0-08d2e308bb-Linux-x86_64.sh  
+or just 
+$ sudo bash EnergyPlus-9.1.0-08d2e308bb-Linux-x86_64.sh   
 pay attention to directory orgamization  
 
