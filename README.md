@@ -41,7 +41,8 @@ $ pip install -U 'mujoco-py<2.1,>=2.0'
 FAIL  
 
 ## install gym  
+$ pip install gym  
 
 ## install EnergyPlus  
-
+$ wget https://github.com/NREL/EnergyPlus/releases/download/v9.1.0/EnergyPlus-9.1.0-08d2e308bb-Linux-x86_64.sh  
 
