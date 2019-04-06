@@ -48,7 +48,9 @@ $ wget https://github.com/NREL/EnergyPlus/releases/download/v9.1.0/EnergyPlus-9.
 
 $ chmod +x EnergyPlus-9.1.0-08d2e308bb-Linux-x86_64.sh  
 $ sudo ./EnergyPlus-9.1.0-08d2e308bb-Linux-x86_64.sh  
-or just 
+or just  
 $ sudo bash EnergyPlus-9.1.0-08d2e308bb-Linux-x86_64.sh   
 pay attention to directory orgamization  
+
+PROBELM: readvarseso --help COMMAND NOT FOUND  
 
