@@ -48,7 +48,7 @@ $ sudo apt-get install python-opencv
 test installation  
 $ ipython  
 In[1]: import cv2 as cv  
-In[2]: print(cv.$__version__$) # 4.4.0  
+In[2]: print(cv.__version__) # 4.4.0  
 
 ## install gym  
 $ pip install gym  
