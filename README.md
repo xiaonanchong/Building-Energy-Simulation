@@ -17,6 +17,9 @@ In this project, we propose to optimize and control dynamic power consumption in
 [Evolving simple programs for playing Atari games](https://arxiv.org/pdf/1806.05695.pdf) - evolutionary algorithm as an alternative to reinforcement learning  
 
 [A Brief Survey of Deep Reinforcement Learning](https://spiral.imperial.ac.uk:8443/bitstream/10044/1/53340/2/1708.05866v1.pdf)  
+
+[Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf) - reinforcement learning algorihtm used in [Reinforcement Learning Testbed for Power-Consumption Optimization](https://arxiv.org/pdf/1808.10427.pdf)  
+
 #### Deep Learning  
 
 #### Energy Control  
