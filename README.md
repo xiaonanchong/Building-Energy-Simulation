@@ -31,3 +31,5 @@ TRPO - trust-region policy optimization algorithm
 
 ## Coding  
 https://github.com/IBM/rl-testbed-for-energyplus   
+
+[baselines](https://github.com/openai/baselines)  
