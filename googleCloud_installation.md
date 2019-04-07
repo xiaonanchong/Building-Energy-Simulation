@@ -53,7 +53,7 @@ more details on: https://energyplus.net/quickstart#run
 $ cd baselines  
 $ pip3 install -e .  
 
-### install opencv:  
+#### install opencv:  
 $ pip3 install matplotlib   
 $ sudo apt-get install python-opencv  
 test installation  
@@ -61,8 +61,9 @@ $ python3
 In[1]: import cv2 as cv  
 In[2]: print(cv.version) # 4.4.0  
 
-### install atari_py:  
+#### install atari_py:  
 pip3 install gym[atari]  
 
-### run baselines example:  
-$ python3 -m baselines.run --alg=deepq --env=PongNoFrameskip-v4 --num_timesteps=1e6  
+#### run baselines example:  
+$ python3 -m baselines.run --alg=ppo2 --env=PongNoFrameskip-v4 --num_timesteps=2e7 --save_path=~/models/pong_20M_ppo2  
+$ python3 -m baselines.run --alg=ppo2 --env=PongNoFrameskip-v4 --num_timesteps=0 --load_path=~/models/pong_20M_ppo2 --play  
