@@ -45,3 +45,4 @@ $ make -j4    __# error__
 $ mkdir test  
 copy idf file and epw file into /test  
 $ energyplus -i /usr/local/EnergyPlus-8-8-0/Energy+.idd -w USA_IL_Chicago-OHare.Intl.AP.725300_TMY3.epw 5ZoneAirCooled.idf  
+the simulation results can be plotted using test/epluszsz.csv  
