@@ -12,6 +12,9 @@ In this project, we propose to optimize and control dynamic power consumption in
 
 [Intelligent Buildings of the Future Cyberaware, Deep Learning Powered, and Human Interacting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7792825)  
 
+[Reinforcement Learning Testbed for Power-Consumption Optimization](https://arxiv.org/pdf/1808.10427.pdf)  
+TRPO - trust-region policy optimization algorithm  
+
 #### Reinforcement Learning  
 
 [Evolving simple programs for playing Atari games](https://arxiv.org/pdf/1806.05695.pdf) - evolutionary algorithm as an alternative to reinforcement learning  
@@ -27,10 +30,7 @@ In this project, we propose to optimize and control dynamic power consumption in
 'AI is the future and its hungry for processing power'  
 
 ## Coding  
-https://github.com/IBM/rl-testbed-for-energyplus  
-
-[Reinforcement Learning Testbed for Power-Consumption Optimization](https://arxiv.org/pdf/1808.10427.pdf)  
-TRPO - trust-region policy optimization algorithm  
+https://github.com/IBM/rl-testbed-for-energyplus   
 
 #### Prerequisites  
 create workspace at home directory  
