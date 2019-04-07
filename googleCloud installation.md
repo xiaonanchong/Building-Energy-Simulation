@@ -47,3 +47,22 @@ copy idf file and epw file into /test
 $ energyplus -i /usr/local/EnergyPlus-8-8-0/Energy+.idd -w USA_IL_Chicago-OHare.Intl.AP.725300_TMY3.epw 5ZoneAirCooled.idf  
 the simulation results can be plotted using test/epluszsz.csv  
 more details on: https://energyplus.net/quickstart#run  
+
+
+### install baselines:  
+$ cd baselines  
+$ pip3 install -e .  
+
+### install opencv:  
+$ pip3 install matplotlib   
+$ sudo apt-get install python-opencv  
+test installation  
+$ python3    
+In[1]: import cv2 as cv  
+In[2]: print(cv.version) # 4.4.0  
+
+### install atari_py:  
+pip3 install gym[atari]  
+
+### run baselines example:  
+$ python3 -m baselines.run --alg=deepq --env=PongNoFrameskip-v4 --num_timesteps=1e6  
