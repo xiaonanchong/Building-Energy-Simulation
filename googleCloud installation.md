@@ -20,7 +20,7 @@ $ cd baselines
 $ pip install -e .  
 
 $ pip install pytest  
-$ pytest   # __error__  
+$ pytest    __#error__  
 
 #### install energyplus:  
 $ wget https://github.com/NREL/EnergyPlus/releases/download/v8.8.0/EnergyPlus-8.8.0-7c3bbe4830-Linux-x86_64.sh  
@@ -39,7 +39,7 @@ $ mkdir build
 $ cd build  
 $ cmake -DCMAKE_INSTALL_PREFIX=/usr/local/EnergyPlus-8-8-0 ..    # Ubuntu case  
 $ cmake -DCMAKE_INSTALL_PREFIX=/Applications/EnergyPlus-8-8-0 .. # macOS case  
-$ make -j4   # __error__  
+$ make -j4    __#error__  
                                                                                          
                                                                                         
                                                                                          
