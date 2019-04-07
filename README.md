@@ -23,6 +23,17 @@ TRPO - trust-region policy optimization algorithm
 
 [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf) - reinforcement learning algorihtm used in [Reinforcement Learning Testbed for Power-Consumption Optimization](https://arxiv.org/pdf/1808.10427.pdf)  
 
+#### Reinforcement Learning Baselines Implementations:  
+1, A2C-[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)  
+2, ACER-[Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/pdf/1611.01224.pdf)  
+3, ACKTR-[Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/pdf/1708.05144.pdf)  
+4, DDPG-[Continuous control with deep reinforcement learning](https://arxiv.org/pdf/1509.02971.pdf)  
+5, DQN-[]()  
+6, GAIL-[Generative Adversarial Imitation Learning](https://arxiv.org/pdf/1606.03476.pdf)  
+7, HER-[Hindsight Experience Replay](https://arxiv.org/pdf/1707.01495.pdf)  
+8, PPO-[Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)  
+9, TRPO-[Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf)   
+
 #### Deep Learning  
 
 #### Energy Control  
