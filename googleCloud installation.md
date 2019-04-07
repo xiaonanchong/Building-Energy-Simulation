@@ -39,10 +39,9 @@ $ mkdir build
 $ cd build  
 $ cmake -DCMAKE_INSTALL_PREFIX=/usr/local/EnergyPlus-8-8-0 ..    # Ubuntu case  
 $ cmake -DCMAKE_INSTALL_PREFIX=/Applications/EnergyPlus-8-8-0 .. # macOS case  
-$ make -j4    __# error__  
-                                                                                         
-                                                                                        
-                                                                                         
-                                                                                         
-                                                                                         
-                                                                                         
+$ make -j4    __# error__                                                                                          
+                                                                                                                 
+### run energyplus similation:  
+$ mkdir test  
+copy idf file and epw file into /test  
+$ energyplus -i /usr/local/EnergyPlus-8-8-0/Energy+.idd -w USA_IL_Chicago-OHare.Intl.AP.725300_TMY3.epw 5ZoneAirCooled.idf  
