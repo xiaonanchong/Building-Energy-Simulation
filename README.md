@@ -37,6 +37,7 @@ TRPO - trust-region policy optimization algorithm
 ### Deep Learning  
 [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) (DeepMind)  
 
+[Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)  
 
 ### Energy Control  
 [Blog - Why Energy Is A Big And Rapidly Growing Problem For Data Centers](https://www.forbes.com/sites/forbestechcouncil/2017/12/15/why-energy-is-a-big-and-rapidly-growing-problem-for-data-centers/#772cdb265a30)  
