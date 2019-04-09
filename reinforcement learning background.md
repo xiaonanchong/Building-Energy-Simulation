@@ -4,5 +4,5 @@
 #### sarsa  
 ## off-policy method:  
 #### Q-learning & deep Q-learning  
-experience reply  
-[Blog: RL — DQN Deep Q-network](https://medium.com/@jonathan_hui/rl-dqn-deep-q-network-e207751f7ae4)
+experience reply + target network  
+[Blog: RL — DQN Deep Q-network](https://medium.com/@jonathan_hui/rl-dqn-deep-q-network-e207751f7ae4)  
