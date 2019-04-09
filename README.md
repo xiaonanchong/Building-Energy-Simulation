@@ -42,7 +42,7 @@ TRPO - trust-region policy optimization algorithm
 [Blog: RL — DQN Deep Q-network](https://medium.com/@jonathan_hui/rl-dqn-deep-q-network-e207751f7ae4)  
 
 ### Energy Control  
-[Blog - Why Energy Is A Big And Rapidly Growing Problem For Data Centers](https://www.forbes.com/sites/forbestechcouncil/2017/12/15/why-energy-is-a-big-and-rapidly-growing-problem-for-data-centers/#772cdb265a30)  
+[Blog: Why Energy Is A Big And Rapidly Growing Problem For Data Centers](https://www.forbes.com/sites/forbestechcouncil/2017/12/15/why-energy-is-a-big-and-rapidly-growing-problem-for-data-centers/#772cdb265a30)  
 'AI is the future and its hungry for processing power'  
 
 ## Coding  
