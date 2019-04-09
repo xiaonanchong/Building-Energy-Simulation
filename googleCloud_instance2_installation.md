@@ -26,7 +26,7 @@ $ pip install -e .
 ```
 ```
 $ pip install pytest  
-$ pytest    __# error__  
+$ pytest    # ERROR    
 ```
 
 ### install energyplus:  
@@ -50,7 +50,7 @@ $ mkdir build
 $ cd build  
 $ cmake -DCMAKE_INSTALL_PREFIX=/usr/local/EnergyPlus-8-8-0 ..    # Ubuntu case  
 $ cmake -DCMAKE_INSTALL_PREFIX=/Applications/EnergyPlus-8-8-0 .. # macOS case  
-$ make -j4    __# error__                                                                                          
+$ make -j4    # ERROR                                                                                          
 ```
 
 ### run energyplus similation:  
