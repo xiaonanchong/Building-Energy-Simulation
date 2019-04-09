@@ -33,6 +33,9 @@ TRPO - trust-region policy optimization algorithm
 7, HER-[Hindsight Experience Replay](https://arxiv.org/pdf/1707.01495.pdf)  
 8, PPO-[Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)  
 9, TRPO-[Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf)   
+#### suplyments  
+[Fisher Matrix for Beginners](http://wittman.physics.ucdavis.edu/Fisher-matrix-guide.pdf)  
+[A Natural Policy Gradient](https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf)  
 
 ### Deep Learning  
 [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) (DeepMind)  
