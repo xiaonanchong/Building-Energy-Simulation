@@ -35,7 +35,7 @@ TRPO - trust-region policy optimization algorithm
 9, TRPO-[Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf)   
 
 ### Deep Learning  
-[Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
+[Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) (DeepMind)  
 
 
 ### Energy Control  
