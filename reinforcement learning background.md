@@ -1,5 +1,7 @@
 # reinforcement learning  
 ## on-policy method:  
-actor-critic  
+#### actor-critic  
+#### sarsa  
 ## off-policy method:  
-Q-learning  
+#### Q-learning  
+experience reply  
