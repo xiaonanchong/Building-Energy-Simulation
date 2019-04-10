@@ -36,6 +36,7 @@ TRPO - trust-region policy optimization algorithm
 #### suplyments  
 [Fisher Matrix for Beginners](http://wittman.physics.ucdavis.edu/Fisher-matrix-guide.pdf)  
 [A Natural Policy Gradient](https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf)  
+[Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961) (2016)  
 
 ### Deep Learning  
 [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) (DeepMind)  
