@@ -23,7 +23,7 @@ TRPO - trust-region policy optimization algorithm
 
 [A Brief Survey of Deep Reinforcement Learning](https://spiral.imperial.ac.uk:8443/bitstream/10044/1/53340/2/1708.05866v1.pdf)  
 
-[Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf) - reinforcement learning algorihtm used in [Reinforcement Learning Testbed for Power-Consumption Optimization](https://arxiv.org/pdf/1808.10427.pdf)  
+[Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf) - reinforcement learning algorihtm used in [Reinforcement Learning Testbed for Power-Consumption Optimization](https://arxiv.org/pdf/1808.10427.pdf) - Model Predictive Control (MPC)  
 
 #### Reinforcement Learning Baselines Implementations:  
 1, A2C-[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)  
