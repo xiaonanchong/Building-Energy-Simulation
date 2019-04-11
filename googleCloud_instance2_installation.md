@@ -40,7 +40,7 @@ $ git clone https://github.com/NREL/EnergyPlus.git
 ```
 ### clone rl-testbed git:  
 ```
-$ https://github.com/IBM/rl-testbed-for-energyplus.git  
+$ git clone https://github.com/IBM/rl-testbed-for-energyplus.git  
 ```
 ### apply path to energyplus and build:  
 ```
