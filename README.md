@@ -17,9 +17,11 @@ TRPO - trust-region policy optimization algorithm
 
 [A review on optimized control systems for building energy andcomfort management of smart sustainable buildings](https://reader.elsevier.com/reader/sd/pii/S1364032114001889?token=E1802E55E595AC95AD959F51EB046249CE72155E2C9E31CD5A2CD3E1E4B5BFDCEE20E324124011ED90B93313694CE75A)- Model Predictive Control (MPC)  
 
+[Demand reduction in building energy systems based on economic model predictive control](https://www.sciencedirect.com/science/article/pii/S0009250911005240)  
+
 [Reinforcement learning for energy conservation and comfort in buildings](https://www.sciencedirect.com/science/article/pii/S0360132306001880)  
 
-[Demand reduction in building energy systems based on economic model predictive control](https://www.sciencedirect.com/science/article/pii/S0009250911005240)  
+
 
 ### Reinforcement Learning  
 
