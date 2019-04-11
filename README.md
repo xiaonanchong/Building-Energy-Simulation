@@ -15,7 +15,9 @@ In this project, we propose to optimize and control dynamic power consumption in
 [Reinforcement Learning Testbed for Power-Consumption Optimization](https://arxiv.org/pdf/1808.10427.pdf)  
 TRPO - trust-region policy optimization algorithm  
 
-[A review on optimized control systems for building energy andcomfort management of smart sustainable buildings](https://reader.elsevier.com/reader/sd/pii/S1364032114001889?token=E1802E55E595AC95AD959F51EB046249CE72155E2C9E31CD5A2CD3E1E4B5BFDCEE20E324124011ED90B93313694CE75A)
+[A review on optimized control systems for building energy andcomfort management of smart sustainable buildings](https://reader.elsevier.com/reader/sd/pii/S1364032114001889?token=E1802E55E595AC95AD959F51EB046249CE72155E2C9E31CD5A2CD3E1E4B5BFDCEE20E324124011ED90B93313694CE75A)- Model Predictive Control (MPC)  
+
+[Demand reduction in building energy systems based on economic model predictive control](https://www.sciencedirect.com/science/article/pii/S0009250911005240)  
 
 ### Reinforcement Learning  
 
@@ -23,7 +25,7 @@ TRPO - trust-region policy optimization algorithm
 
 [A Brief Survey of Deep Reinforcement Learning](https://spiral.imperial.ac.uk:8443/bitstream/10044/1/53340/2/1708.05866v1.pdf)  
 
-[Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf) - reinforcement learning algorihtm used in [Reinforcement Learning Testbed for Power-Consumption Optimization](https://arxiv.org/pdf/1808.10427.pdf) - Model Predictive Control (MPC)  
+[Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf) - reinforcement learning algorihtm used in [Reinforcement Learning Testbed for Power-Consumption Optimization](https://arxiv.org/pdf/1808.10427.pdf)   
 
 #### Reinforcement Learning Baselines Implementations:  
 1, A2C-[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)  
