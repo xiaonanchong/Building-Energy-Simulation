@@ -40,12 +40,15 @@ TRPO - trust-region policy optimization algorithm
 3, ACKTR-[Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/pdf/1708.05144.pdf)  
 4, DDPG-[Continuous control with deep reinforcement learning](https://arxiv.org/pdf/1509.02971.pdf)  
 > 'adapt the ideas underlying the success if Deep Q-Learning to the continuous action domain'  
+
 5, DQN-[]()  
 6, GAIL-[Generative Adversarial Imitation Learning](https://arxiv.org/pdf/1606.03476.pdf)  
 > 'propose a new general framework for directly extracting a policy from data, as if it were obtained by reinforcement learning following inverse reinforcement learning'  
+
 7, HER-[Hindsight Experience Replay](https://arxiv.org/pdf/1707.01495.pdf)  
-8, PPO-[Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)  
-9, TRPO-[Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf)   
+8, __PPO__-[Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)  
+9, __TRPO__-[Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf)   
+
 #### suplyments  
 [Fisher Matrix for Beginners](http://wittman.physics.ucdavis.edu/Fisher-matrix-guide.pdf)  
 [A Natural Policy Gradient](https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf)  
