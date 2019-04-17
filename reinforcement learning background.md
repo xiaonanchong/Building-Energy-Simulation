@@ -8,3 +8,4 @@ experience reply + target network
 
 ## Question:  
 how to find max Q(s', a') in continuous case?  
+how to add deep neural network, what is input, what is output and how to represent input with vectors?  
