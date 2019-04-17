@@ -8,6 +8,50 @@ $ sudo apt-get upgrade
 $ sudo apt-get install python3-pip  
 $ sudo apt-get install python-pip  
 ```
+
+### install energyplus:  
+```
+$ wget https://github.com/NREL/EnergyPlus/releases/download/v8.8.0/EnergyPlus-8.8.0-7c3bbe4830-Linux-x86_64.sh  
+$ sudo bash EnergyPlus-8.8.0-7c3bbe4830-Linux-x86_64.sh  
+```
+### run energyplus similation:  
+```
+$ mkdir test  
+copy idf file and epw file into /test  
+$ energyplus -i /usr/local/EnergyPlus-8-8-0/Energy+.idd -w USA_IL_Chicago-OHare.Intl.AP.725300_TMY3.epw 5ZoneAirCooled.idf  
+the simulation results can be plotted using test/epluszsz.csv  
+```
+more details on: https://energyplus.net/quickstart#run  
+
+### clone energyplus 8.8.0 git:  
+```
+$ wget https://github.com/NREL/EnergyPlus/archive/v8.8.0.zip  
+$ sudo apt-get install unzip  
+$ unzip v8.8.0.zip  
+```
+
+### clone rl-testbed git:  
+```
+$ git clone https://github.com/IBM/rl-testbed-for-energyplus.git  
+```
+### apply path to energyplus and build:  
+```
+$ cd <WORKING-DIRECTORY>/EnergyPlus  
+$ patch -p1 < ../rl-testbed-for-energyplus/EnergyPlus/RL-patch-for-EnergyPlus-8-8-0.patch  
+$ mkdir build  
+$ cd build  
+$ cmake -DCMAKE_INSTALL_PREFIX=/usr/local/EnergyPlus-8-8-0 ..    # Ubuntu case  
+$ cmake -DCMAKE_INSTALL_PREFIX=/Applications/EnergyPlus-8-8-0 .. # macOS case  
+$ make -j4                                                                                              
+```
+
+set up environment variables.  
+install mpi4y:  
+$ pip3 install git+https://bitbucket.org/mpi4py/mpi4py  
+install pandas:  
+$ pip3 install pandas  
+
+
 ### install gym:  
 ```
 $ git clone https://github.com/openai/gym.git  
@@ -29,41 +73,6 @@ $ pip install -e .
 $ pip install pytest  
 $ pytest    # ERROR    
 ```
-
-### install energyplus:  
-```
-$ wget https://github.com/NREL/EnergyPlus/releases/download/v8.8.0/EnergyPlus-8.8.0-7c3bbe4830-Linux-x86_64.sh  
-$ sudo bash EnergyPlus-8.8.0-7c3bbe4830-Linux-x86_64.sh  
-```
-### clone energyplus 8.8.0 git:  
-```
-$ git clone https://github.com/NREL/EnergyPlus.git  
-```
-### clone rl-testbed git:  
-```
-$ git clone https://github.com/IBM/rl-testbed-for-energyplus.git  
-```
-### apply path to energyplus and build:  
-```
-$ cd <WORKING-DIRECTORY>/EnergyPlus  
-$ patch -p1 < ../rl-testbed-for-energyplus/EnergyPlus/RL-patch-for-EnergyPlus-8-8-0.patch  
-$ mkdir build  
-$ cd build  
-$ cmake -DCMAKE_INSTALL_PREFIX=/usr/local/EnergyPlus-8-8-0 ..    # Ubuntu case  
-$ cmake -DCMAKE_INSTALL_PREFIX=/Applications/EnergyPlus-8-8-0 .. # macOS case  
-$ make -j4    # ERROR                                                                                          
-```
-
-### run energyplus similation:  
-```
-$ mkdir test  
-copy idf file and epw file into /test  
-$ energyplus -i /usr/local/EnergyPlus-8-8-0/Energy+.idd -w USA_IL_Chicago-OHare.Intl.AP.725300_TMY3.epw 5ZoneAirCooled.idf  
-the simulation results can be plotted using test/epluszsz.csv  
-```
-more details on: https://energyplus.net/quickstart#run  
-
-
 ### install baselines:  
 ```
 $ cd baselines  
