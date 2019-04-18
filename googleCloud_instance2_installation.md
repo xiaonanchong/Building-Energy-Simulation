@@ -96,3 +96,7 @@ pip3 install gym[atari]
 $ python3 -m baselines.run --alg=ppo2 --env=PongNoFrameskip-v4 --num_timesteps=2e7 --save_path=~/models/pong_20M_ppo2  
 $ python3 -m baselines.run --alg=ppo2 --env=PongNoFrameskip-v4 --num_timesteps=0 --load_path=~/models/pong_20M_ppo2 --play  
 ```
+
+
+## running  
+$ time python3 -m baselines_energyplus.trpo_mpi.run_energyplus --num-timesteps 1000000000
