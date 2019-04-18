@@ -27,6 +27,7 @@ TRPO - trust-region policy optimization algorithm
 
 
 ### Reinforcement Learning  
+[Li FeiFei: reinforcement learning](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture14.pdf)
 
 [Evolving simple programs for playing Atari games](https://arxiv.org/pdf/1806.05695.pdf) - evolutionary algorithm as an alternative to reinforcement learning  
 
