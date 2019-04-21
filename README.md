@@ -21,7 +21,7 @@ TRPO - trust-region policy optimization algorithm
 
 [Reinforcement learning for energy conservation and comfort in buildings](https://www.sciencedirect.com/science/article/pii/S0360132306001880)  
 
-[Deep Reinforcement Learning for Building HVAC Control](http://delivery.acm.org/10.1145/3070000/3062224/a22-Wei.pdf?ip=146.169.53.171&id=3062224&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2EF5014A9D3D5CC2D9%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1554995366_97a83f10646dd8f46d76c5b064a8a128)  
+[Deep Reinforcement Learning for Building HVAC Control](https://ieeexplore.ieee.org/abstract/document/8060306)  
 
 [Reinforcement Learning for Building Environmental Control ](https://mediatum.ub.tum.de/doc/1289297/file.pdf)  
 
