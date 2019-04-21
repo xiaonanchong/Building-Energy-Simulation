@@ -50,6 +50,9 @@ TRPO - trust-region policy optimization algorithm
 8, __PPO__-[Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)  
 9, __TRPO__-[Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf)   
 
+#### citation following  
+TRPO -> [Approximately optimal approximate reinforcement learning](https://homes.cs.washington.edu/~sham/papers/rl/aoarl.pdf)  
+
 #### suplyments  
 [Fisher Matrix for Beginners](http://wittman.physics.ucdavis.edu/Fisher-matrix-guide.pdf)  
 [A Natural Policy Gradient](https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf)  
