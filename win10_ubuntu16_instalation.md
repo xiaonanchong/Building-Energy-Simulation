@@ -1,3 +1,6 @@
+get ubuntu app from window  
+control panel -> programs -> turn windows features on or off -> window subsystems for linux    
+
 # Install Packages  
 
 ## install pip
