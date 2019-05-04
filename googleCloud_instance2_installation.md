@@ -47,11 +47,11 @@ $ make -j4
 
 set up environment variables and run.  
 
-### minstall mpi4y:  
+### minstall mpi4y and pandas:  
+```
 $ pip3 install git+https://bitbucket.org/mpi4py/mpi4py  
-### install pandas:  
 $ pip3 install pandas  
-
+```
 
 ### install gym:  
 ```
