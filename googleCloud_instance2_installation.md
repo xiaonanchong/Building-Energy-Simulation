@@ -45,10 +45,11 @@ $ cmake -DCMAKE_INSTALL_PREFIX=/Applications/EnergyPlus-8-8-0 .. # macOS case
 $ make -j4                                                                                              
 ```
 
-set up environment variables.  
-install mpi4y:  
+set up environment variables and run.  
+
+### minstall mpi4y:  
 $ pip3 install git+https://bitbucket.org/mpi4py/mpi4py  
-install pandas:  
+### install pandas:  
 $ pip3 install pandas  
 
 
@@ -65,19 +66,12 @@ $ pip install tensorflow
 ### install baselines:  
 ```
 $ sudo apt-get update && sudo apt-get install cmake libopenmpi-dev python3-dev zlib1g-dev  
-$ git clone https://github.com/openai/baselines.git  
-$ cd baselines  
-$ pip install -e .  
-```
-```
-$ pip install pytest  
-$ pytest    # ERROR    
-```
-### install baselines:  
-```
+$ git clone -n https://github.com/openai/baselines.git  
+$ git checkout 366f486  
 $ cd baselines  
 $ pip3 install -e .  
 ```
+
 #### install opencv:  
 ```
 $ pip3 install matplotlib   
