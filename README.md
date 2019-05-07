@@ -36,6 +36,7 @@ TRPO - trust-region policy optimization algorithm
 [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf) - reinforcement learning algorihtm used in [Reinforcement Learning Testbed for Power-Consumption Optimization](https://arxiv.org/pdf/1808.10427.pdf)   
 
 [HIGH-DIMENSIONAL CONTINUOUS CONTROL USING GENERALIZED ADVANTAGE ESTIMATION](https://arxiv.org/pdf/1506.02438.pdf) - standardize returns  
+[Gradient Estimation Using Stochastic Computation Graphs](https://arxiv.org/pdf/1506.05254.pdf)  
 
 #### Reinforcement Learning Baselines Implementations:  
 1, A2C-[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)  
