@@ -25,6 +25,7 @@ TRPO - trust-region policy optimization algorithm
 
 [Reinforcement Learning for Building Environmental Control ](https://mediatum.ub.tum.de/doc/1289297/file.pdf)  
 
+[Advanced Building Control via Deep Reinforcement Learning](http://www.jinming.tech/papers/BuildingRL_ICAE_CR.pdf) - wrap EnergyPlus  
 
 ### Reinforcement Learning  
 [Li FeiFei: reinforcement learning](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture14.pdf)
