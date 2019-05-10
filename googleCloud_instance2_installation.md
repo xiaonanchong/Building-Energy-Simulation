@@ -44,7 +44,9 @@ $ cmake -DCMAKE_INSTALL_PREFIX=/usr/local/EnergyPlus-8-8-0 ..    # Ubuntu case
 $ cmake -DCMAKE_INSTALL_PREFIX=/Applications/EnergyPlus-8-8-0 .. # macOS case  
 $ make -j4                                                                                              
 ```
-
+```
+$ sudo make install
+```
 set up environment variables and run.  
 
 ### minstall mpi4y and pandas:  
