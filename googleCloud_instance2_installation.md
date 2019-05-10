@@ -67,8 +67,8 @@ $ pip install tensorflow
 ```
 $ sudo apt-get update && sudo apt-get install cmake libopenmpi-dev python3-dev zlib1g-dev  
 $ git clone -n https://github.com/openai/baselines.git  
-$ git checkout 366f486  
 $ cd baselines  
+$ git checkout 366f486  
 $ pip3 install -e .  
 ```
 
