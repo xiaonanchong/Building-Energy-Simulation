@@ -49,6 +49,7 @@ $ make -j4
 $ sudo make install
 ```
 set up environment variables and run.  
+$ vi ~/.bashrc  
 
 ### minstall mpi4y and pandas:  
 ```
