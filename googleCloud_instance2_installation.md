@@ -50,6 +50,8 @@ $ sudo make install
 ```
 set up environment variables and run.  
 $ vi ~/.bashrc  
+check environment variables  
+$ printenv  
 
 ### minstall mpi4y and pandas:  
 ```
