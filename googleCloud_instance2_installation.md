@@ -34,7 +34,7 @@ $ unzip v8.8.0.zip
 ```
 $ git clone https://github.com/IBM/rl-testbed-for-energyplus.git  
 ```
-### apply path to energyplus and build:  
+### apply patch to energyplus and build:  
 ```
 $ cd <WORKING-DIRECTORY>/EnergyPlus  
 $ patch -p1 < ../rl-testbed-for-energyplus/EnergyPlus/RL-patch-for-EnergyPlus-8-8-0.patch  
