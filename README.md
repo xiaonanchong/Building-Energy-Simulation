@@ -85,5 +85,7 @@ https://github.com/IBM/rl-testbed-for-energyplus
 ### implementation  
 [BCVTB-EnergyPlus-MATLAB 4.2](https://www.tandfonline.com/doi/full/10.1080/19401493.2010.518631?scroll=top&needAccess=true&#aHR0cHM6Ly93d3cudGFuZGZvbmxpbmUuY29tL2RvaS9wZGYvMTAuMTA4MC8xOTQwMTQ5My4yMDEwLjUxODYzMT9uZWVkQWNjZXNzPXRydWVAQEAw)  
 
+[CO-SIMULATION FOR BUILDING CONTROLLER DEVELOPMENT: THE CASE STUDY OF A MODERN OFFICE BUILDING ](https://opticontrol.ee.ethz.ch/Lit/Sage_11_Proc-CISBAT11.pdf)  
+
 ## Data  
 https://www.energycodes.gov/development/commercial/prototype_models  
