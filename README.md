@@ -29,6 +29,8 @@ TRPO - trust-region policy optimization algorithm
 
 [Reinforcement learning for energy conservation and comfort in buildings](https://mediatum.ub.tum.de/doc/1289939/file.pdf)  
 
+[A zone-level, building energy optimisation combining an artificial neural network, a genetic algorithm, and model predictive control](https://www.sciencedirect.com/science/article/pii/S036054421830522X#bib6)  
+
 ### Reinforcement Learning  
 [Li FeiFei: reinforcement learning](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture14.pdf)
 
