@@ -31,6 +31,11 @@ TRPO - trust-region policy optimization algorithm
 
 [A zone-level, building energy optimisation combining an artificial neural network, a genetic algorithm, and model predictive control](https://www.sciencedirect.com/science/article/pii/S036054421830522X#bib6)  
 
+[A Long-Short Term Memory Recurrent Neural
+Network Based Reinforcement Learning Controller
+for Office Heating Ventilation and Air
+Conditioning Systems](file:///C:/Users/xncho/Downloads/A_Long-Short_Term_Memory_Recurrent_Neural_Network_.pdf)  
+
 ### Reinforcement Learning  
 [Li FeiFei: reinforcement learning](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture14.pdf)
 
