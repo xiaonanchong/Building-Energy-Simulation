@@ -98,5 +98,7 @@ https://github.com/IBM/rl-testbed-for-energyplus
 operation of building energy and control
 systems based on the Functional Mockup Interface standard](https://www.osti.gov/servlets/purl/1134244)  
 
+[EnergyPlus external interface application guide](https://energyplus.net/sites/all/modules/custom/nrel_custom/pdfs/pdfs_v9.1.0/ExternalInterfacesApplicationGuide.pdf)  
+
 ## Data  
 https://www.energycodes.gov/development/commercial/prototype_models  
