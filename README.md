@@ -40,6 +40,8 @@ Conditioning Systems](https://github.com/xiaonanchong/Building-Energy-Simulation
 Energy Study through EnergyPlus and
 Matlab Co-simulation](https://www.ibpsa.us/sites/default/files/publications/SB10-PPT-IS08C-03-Wen.pdf) - configure MATLAB and EnergyPlus through BCVTB  
 
+[vedio on EnergyPLus-CVBTB Co-simulation](https://www.youtube.com/watch?v=8kH8IxJrIU4)  
+
 ### Reinforcement Learning  
 [Li FeiFei: reinforcement learning](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture14.pdf)
 
